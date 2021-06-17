@@ -1,0 +1,23 @@
+{
+  "name": "fruitsproject",
+  "version": "1.0.0",
+  "description": "Learning MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardmihael/Databases-MongoDB-.git"
+  },
+  "keywords": [
+    "mongoDB",
+    "database"
+  ],
+  "author": "Mihael LC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardmihael/Databases-MongoDB-/issues"
+  },
+  "homepage": "https://github.com/leonardmihael/Databases-MongoDB-#readme"
+}
